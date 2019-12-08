@@ -337,6 +337,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Serpent AI](https://github.com/SerpentAI/SerpentAI) : Game Agent Framework. Helping you create AIs / Bots to play any game you own! BETA
 - [Blog Floydhub](https://blog.floydhub.com/colorizing-b&w-photos-with-neural-networks/) : Colorizing B&W Photos with Neural Networks
 - [MLCOURSE.AI](https://mlcourse.ai/) : Open Machine Learning course by OpenDataScience
+- [OpenAI Gym](https://gym.openai.com/) : Toolkit for developing and comparing reinforcement learning algorithms.
 
 
 ## Seminar , research writing , talks etc
